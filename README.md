@@ -31,7 +31,7 @@ To get started with the SWE381 Embedded System Design Lab Applications, follow t
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/SWE381-Embedded-System-Design-Lab-Applications.git
+git clone https://github.com/karabunar/swe381-lab.git
 ```
 
 2. Open the Arduino IDE.
