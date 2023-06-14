@@ -9,7 +9,6 @@ Welcome to the repository for the SWE381 Embedded System Design Lab Applications
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Applications](#applications)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Introduction
@@ -49,19 +48,6 @@ This repository contains multiple applications developed as part of the SWE381 E
 - Schematics: Circuit diagrams or connection diagrams illustrating the hardware setup required for the application.
 
 Feel free to explore the applications available in this repository and use them as a reference or starting point for your own embedded system design projects.
-
-## Contributing
-
-Contributions to the SWE381 Embedded System Design Lab Applications repository are welcome! If you have developed an application that you would like to share with others, feel free to fork this repository and submit a pull request with your changes.
-
-When contributing, please adhere to the following guidelines:
-
-- Clearly describe the purpose and functionality of the application.
-- Provide comprehensive documentation and usage instructions.
-- Include any necessary schematics or circuit diagrams.
-- Ensure that your code follows best practices and is well-documented.
-
-We appreciate any contributions that enhance the educational value and usability of the applications in this repository.
 
 ## License
 
